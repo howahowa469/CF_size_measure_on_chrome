@@ -1,0 +1,2 @@
+# CF_size_measure_on_chrome
+intelmap上で3本のリンクを引いた状態のintelmapから取得したリンクがURL欄にある状態で実行するとCFの外周長と面積が求まります。※crome devツールのconsoleにコピペして使います。
